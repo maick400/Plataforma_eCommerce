@@ -28,7 +28,7 @@ class Database extends Config
         'DSN'          => '',
         'hostname'     => 'localhost',
         'username'     => 'root',
-        'password'     => 'admin',
+        'password'     => '123456',
         'database'     => 'tienda',
         'DBDriver'     => 'MySQLi',
         'DBPrefix'     => '',
